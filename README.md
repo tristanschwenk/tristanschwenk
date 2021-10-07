@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tristanschwenk
-- 👀 I’m interested in programming and WebDev
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web developpment
+- 🌱 I’m currently learning ReactJS and Vue3
 - 💞️ I’m looking to collaborate with anyone
 
 
